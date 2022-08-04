@@ -3,4 +3,5 @@
 Olá! Bem vindo ao meu livro de receitas:poultry_leg:
 
 - Strogonoff de Frango
+- Pavê 
 
